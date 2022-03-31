@@ -1,0 +1,17 @@
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\bin\Debug\ProjetoDeCalculadora.exe.config
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\bin\Debug\ProjetoDeCalculadora.exe
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\bin\Debug\ProjetoDeCalculadora.pdb
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\ProjetoDeCalculadora.csproj.AssemblyReference.cache
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\Calculadora.g.cs
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\MainWindow.g.cs
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\App.g.cs
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\ProjetoDeCalculadora_MarkupCompile.cache
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\ProjetoDeCalculadora_MarkupCompile.lref
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\Calculadora.baml
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\MainWindow.baml
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\ProjetoDeCalculadora.g.resources
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\ProjetoDeCalculadora.Properties.Resources.resources
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\ProjetoDeCalculadora.csproj.GenerateResource.cache
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\ProjetoDeCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\ProjetoDeCalculadora.exe
+C:\Users\Win 10\source\repos\ST1\ProjetoDeCalculadora\obj\Debug\ProjetoDeCalculadora.pdb
